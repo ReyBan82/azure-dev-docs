@@ -1,3 +1,4 @@
+![FB_IMG_Rey~Ban](https://github.com/ReyBan82/azure-dev-docs/assets/91646027/09c03f18-c50d-468f-bdc9-8e8002290985)
 # Microsoft Azure Documentation
 
 Welcome to the open-source [documentation](/azure) of [Microsoft Azure](https://azure.microsoft.com). Please review this README file to understand how you can assist in contributing to the Microsoft Azure documentation.
